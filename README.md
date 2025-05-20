@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flutter Apps and University Projects**
 
-- 🌱 I’m currently learning **Flutter, App development, MySQL, PHP**
+- 🌱 I’m currently learning **Flutter, App development**
 
 - 📫 How to reach me **rasheduzzaman2003@gmail.com, https://www.facebook.com/rasheduzzaman.rochi**
 
