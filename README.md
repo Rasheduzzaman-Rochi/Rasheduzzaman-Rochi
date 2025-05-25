@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasheduzzaman-rochi" alt="rasheduzzaman-rochi" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter Apps and University Projects**
+- 🔭 I’m currently working on **Flutter Apps**
 
 - 🌱 I’m currently learning **Flutter, App development**
 
