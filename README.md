@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, App development**
 
-- 📫 How to reach me **rasheduzzaman2003@gmail.com, https://www.facebook.com/rasheduzzaman.rochi**
+- 📫 How to reach me **rasheduzzaman2003@gmail.com, https://www.linkedin.com/in/rasheduzzaman-rochi-09367219a/**
 
 - ⚡ Fun fact **Outside of my professional interests, I am a coffee lover, and I enjoy mobile photography and videography**
 
